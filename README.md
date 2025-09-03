@@ -1,6 +1,7 @@
 
-# Idea2UML 
+# Idea2UML
 A Streamlit app that converts ideas into UML diagrams effortlessly.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://idea2uml.streamlit.app/)
 
 ### Step 1: Install Streamlit
 If Streamlit is not installed, use the following command:
